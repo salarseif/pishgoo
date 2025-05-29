@@ -1,0 +1,4 @@
+skyfield
+numpy
+schedule
+python-telegram-bot
